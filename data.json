@@ -1,6 +1,8 @@
 {
-    "message": "Hello from Flask API - Updated in Jalalpriyanshu branch",
-    "version": "1.0",
+    "message": "Updated API response from Jalalpriyanshu_new branch",
+    "version": "2.0",
     "author": "Jalalpriyanshu",
-    "branch": "Jalalpriyanshu"
+    "features": ["Todo List", "API Integration", "MongoDB Storage"],
+    "status": "active",
+    "lastUpdate": "2025-10-05"
 }
